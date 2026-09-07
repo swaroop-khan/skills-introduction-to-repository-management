@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @swaroop-khan
+/src/backend/database.py      @swaroop-khan
+/src/backend/routers/auth.py  @swaroop-khan
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @swaroop-khan
